@@ -1,0 +1,13 @@
+# Contenedor de apache
+services:
+  web:
+    container_name: asir_apache
+    image: httpd:latest
+    ports:
+      - "80:80"
+    # mapeamos el directorio raiz
+    volumes:
+      - ./paginas:/usr/local/apache2/htdocs
+networks:
+  asir_network:
+    external: true
