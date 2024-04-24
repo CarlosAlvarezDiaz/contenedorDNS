@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  bind9:
+    image: internetsystemsconsortium/bind9:9.18
+    container_name: bind9
+    volumes:
+      - ./data/etc:/etc/bind
+      - ./data/var:/var/cache/bind
+    ports:
+      - "53:53"
+      - "53:53/udp"
+    restart: always
