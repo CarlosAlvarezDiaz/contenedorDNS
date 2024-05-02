@@ -10,4 +10,12 @@ services:
     ports:
       - "53:53"
       - "53:53/udp"
-    restart: always
+    restart: unless-stopped
+
+  cliente:
+    image: alpine:latest
+    container_name: client
+    stdin_open: true
+    tty: true
+    depends_on:
+      - bind9
