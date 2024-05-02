@@ -41,3 +41,10 @@ El archivo `docker-compose.yml` contiene la configuración para el contenedor Bi
 Puedes detener el contenedor ejecutando el siguiente comando en el directorio del proyecto:
 
 docker-compose down
+
+
+Comprobacion de los comandos de red del enlace:
+
+Ping
+
+![](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/2effc464d7cd5f417f30cb979e1724ac4a0c28ff/primer-comando.png)
