@@ -48,3 +48,56 @@ Comprobacion de los comandos de red del enlace:
 Ping
 
 ![](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/2effc464d7cd5f417f30cb979e1724ac4a0c28ff/primer-comando.png)
+
+Tracepath
+
+![instalacion tracepath](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/instalar-tracepath.png)
+
+![Comprobacion tracepath](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/tracepath.png)
+
+MTR
+
+![instalacion mtr](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/instalacionmtr.png)
+
+![comprobacion mtr](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/mtr.png)
+
+IfConfig
+
+![IfConfig](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/ifconfig.png)
+
+Ifup
+
+![Ifup](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/ifup.png)
+
+ip address
+
+![ip address](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/ipaddress.png)
+
+Host
+
+![host](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/host.png)
+
+Netstat
+
+![netstat](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/netstat.png)
+Route
+
+![route](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/route.png)
+
+ifplugd y dhclient no estan disponibles para alpine
+
+WhoIs
+
+![whois](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/whois.png)
+
+curl tampoco esta disponible
+
+Pruebas con Dig
+
+Prueba con Dig 1
+
+![dig1](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/92d0e0457e89292f91603523b5870e82c1e99d83/dig-1.png)
+
+Prueba con Dig 2
+
+![dig2](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/92d0e0457e89292f91603523b5870e82c1e99d83/dig-2.png)
