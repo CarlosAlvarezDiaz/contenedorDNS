@@ -80,6 +80,7 @@ Host
 Netstat
 
 ![netstat](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/netstat.png)
+
 Route
 
 ![route](https://github.com/CarlosAlvarezDiaz/contenedorDNS/blob/7abfd45f784dc89b391ce1fdf63ff7801305b1b4/route.png)
